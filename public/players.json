@@ -1,0 +1,152 @@
+[
+  {
+    "player_image": "https://i.ibb.co.com/6cnmNy0C/sakib.jpg",
+    "player_name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "playing_role": "All-Rounder",
+    "rating": 9.2,
+    "bating_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "price": "BDT 160000000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/7xyjdxWm/tamim.jpg",
+    "player_name": "Tamim Iqbal",
+    "player_country": "Bangladesh",
+    "playing_role": "Batsman",
+    "rating": 8.7,
+    "bating_style": "Left-handed",
+    "bowling_style": "N/A",
+    "price": "BDT 1100000000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/nMfDgCht/andre-Russel.jpg",
+    "player_name": "Andre Russell",
+    "player_country": "West Indies",
+    "playing_role": "All-Rounder",
+    "rating": 9.4,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "price": "BDT 180000000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/Y7n916bQ/liton.jpg",
+    "player_name": "Litton Das",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicketkeeper-Batsman",
+    "rating": 8.4,
+    "bating_style": "Right-handed",
+    "bowling_style": "N/A",
+    "price": "BDT 9500000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/jZvnwfyh/mustafiz.jpg",
+    "player_name": "Mustafizur Rahman",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 9.0,
+    "bating_style": "Left-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "price": "BDT 140000000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/xtxcT5B2/dawit-Malan.jpg",
+    "player_name": "Dawid Malan",
+    "player_country": "England",
+    "playing_role": "Batsman",
+    "rating": 8.9,
+    "bating_style": "Left-handed",
+    "bowling_style": "Right-arm leg break",
+    "price": "BDT 130000000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/x8Y8gZY3/rashid-Khan.jpg",
+    "player_name": "Rashid Khan",
+    "player_country": "Afghanistan",
+    "playing_role": "Bowler",
+    "rating": 9.6,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "price": "BDT 190000000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/LDLwF3N8/mushfik.jpg",
+    "player_name": "Mushfiqur Rahim",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicketkeeper-Batsman",
+    "rating": 8.8,
+    "bating_style": "Right-handed",
+    "bowling_style": "N/A",
+    "price": "BDT 12000000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/sXFSR2J/colin-Ingram.jpg",
+    "player_name": "Colin Ingram",
+    "player_country": "South Africa",
+    "playing_role": "Batsman",
+    "rating": 8.1,
+    "bating_style": "Left-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "price": "BDT 85000000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/8LzfKfFw/tishara-Perera.jpg",
+    "player_name": "Thisara Perera",
+    "player_country": "Sri Lanka",
+    "playing_role": "All-Rounder",
+    "rating": 8.6,
+    "bating_style": "Left-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "price": "BDT 11000000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/LD0hNc4m/nasum.jpg",
+    "player_name": "Nasum Ahmed",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 8.2,
+    "bating_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "price": "BDT 70000000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/GvhCLvTC/chirsjordan.jpg",
+    "player_name": "Chris Jordan",
+    "player_country": "England",
+    "playing_role": "Bowler",
+    "rating": 8.5,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "price": "BDT 98000000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/C32QJVMQ/miraz.jpg",
+    "player_name": "Mahedi Hasan",
+    "player_country": "Bangladesh",
+    "playing_role": "All-Rounder",
+    "rating": 8.3,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm offbreak",
+    "price": "BDT 80000000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/yc9Hz2Pz/afif.jpg",
+    "player_name": "Afif Hossain",
+    "player_country": "Bangladesh",
+    "playing_role": "Batsman",
+    "rating": 7.9,
+    "bating_style": "Left-handed",
+    "bowling_style": "Right-arm offbreak",
+    "price": "BDT 65000000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/h18tfpqp/rizwan.jpg",
+    "player_name": "Mohammad Rizwan",
+    "player_country": "Pakistan",
+    "playing_role": "Wicketkeeper-Batsman",
+    "rating": 9.1,
+    "bating_style": "Right-handed",
+    "bowling_style": "N/A",
+    "price": "BDT 150000000"
+  }
+]
