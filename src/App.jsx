@@ -18,7 +18,7 @@ function App() {
 
   const [toggle, setToggle] = useState(true)
  
-  const [availAbleBalance, setAvailableBalance] = useState (6000000000)
+  const [availAbleBalance, setAvailableBalance] = useState (1000000000)
 
   const [purchasedPlayers, setpurchasedPlayers] = useState([])
 
